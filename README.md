@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shweta Deshmukh</h1>
-<h3 align="center">I am a passionate Software Engineer with a background in Quality Assurance, eager to transition into full-time Software Development.</h3>
+<h3 align="center">I am a passionate software engineer exploring new opportunities in software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetadd33&label=Profile%20views&color=0e75b6&style=flat" alt="shwetadd33" /> </p>
 
@@ -25,7 +25,7 @@
 
 <h3 align="left">Work Experience:</h3>
 
-**QA Specialist at PTC Software** <a href="https://www.ptc.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/PTC_New_Logo.png" width="50" height="20"/> </a> 
+<ins>**QA Specialist at PTC Software**</ins> <a href="https://www.ptc.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/PTC_New_Logo.png" width="50" height="20"/> </a> 
 
 **Duration:** Jun 2017 – Jan 2024 
 
