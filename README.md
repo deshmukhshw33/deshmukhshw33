@@ -6,6 +6,10 @@
 - 🌱 I’m currently learning **Javascript**
   
 - 🌱 **Generative AI Enthusiast:** Curious and actively learning about Generative AI, exploring its potential in software development
+  - Completed Google's GenAI learning path [Beginner: Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
+
+  - [Find Completion badges](https://www.cloudskillsboost.google/public_profiles/9255ff84-1560-47a0-abcc-c159958b4205)
+
   
 - 👯 I’m looking to collaborate on **AI projects**
 
