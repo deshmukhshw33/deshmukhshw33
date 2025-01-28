@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Shweta Deshmukh</h1>
-<h3 align="center">I am a passionate software engineer exploring new opportunities in software development.</h3>
+<h3 align="center">Experienced QA Automation Engineer committed to enhancing software reliability, exploring new opportunities to drive quality and streamline testing processes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetadd33&label=Profile%20views&color=0e75b6&style=flat" alt="shwetadd33" /> </p>
 
 - 🌱 I’m currently learning **Javascript**
+
+- 🛠 **Testing Tools Expertise:** Proficient in automation tools and frameworks like Selenium, Pytest, TestNG, JUnit, and Ruby.
+  - Skilled in CI/CD tools such as Jenkins, Git, JIRA, and Maven to streamline workflows and enhance software quality.
   
 - 🌱 **Generative AI Enthusiast:** Curious and actively learning about Generative AI, exploring its potential in software development
   - Completed Google's GenAI learning path [Beginner: Introduction to Generative AI Learning Path](https://www.cloudskillsboost.google/paths/118)
 
   - [Find Completion badges](https://www.cloudskillsboost.google/public_profiles/9255ff84-1560-47a0-abcc-c159958b4205)
-
   
-- 👯 I’m looking to collaborate on **AI projects**
+- 👯 I’m looking to collaborate on **Automation projects**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shwetadd33?tab=repositories](https://github.com/shwetadd33?tab=repositories)
 
-- 💬 Ask me about **GenAI,Python**
+- 💬 Ask me about **GenAI,Python,and Automation Testing**
 
 - 📫 How to reach me **shwetadd33@gmail.com**
 
