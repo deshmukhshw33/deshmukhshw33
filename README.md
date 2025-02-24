@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shwetadd33&label=Profile%20views&color=0e75b6&style=flat" alt="shwetadd33" /> </p>
 
 - 💻 **Programming Lanugages:** Skilled in Python, Java, C, SQL, Ruby, PHP, HTML, and CSS.
-- 
+  
 - 🌱 I’m currently learning **Javascript**
 
 - 🛠 **Testing Tools Expertise:** Proficient in automation tools and frameworks like Selenium, Pytest, TestNG, JUnit, and Ruby.
